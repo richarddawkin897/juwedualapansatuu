@@ -1,0 +1,4 @@
+baseURL = "https://showercurtain-xeui.vercel.app"
+languageCode = "en-us"
+title = "Shower Curtain Set"
+theme = "hugo-theme-minos"
